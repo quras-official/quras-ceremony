@@ -1,0 +1,71 @@
+﻿<Window x:Class="CeremonyClientFinal.SignUpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CeremonyClientFinal"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Sign Up" Height="500" Width="680" WindowStyle="None" AllowsTransparency="True" MouseDown="Window_MouseDown">
+    <Border BorderThickness="1" BorderBrush="#FF74BCE4">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="5*" />
+                <ColumnDefinition Width="5*" />
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Image Source="res/logo.png" >
+                    <Image.Effect>
+                        <DropShadowEffect Opacity="0.3" Direction="0" BlurRadius="30"/>
+                    </Image.Effect>
+                </Image>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="3*" />
+                    <RowDefinition Height="1*" />
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" VerticalAlignment="Top" HorizontalAlignment="Right">
+                    <Button x:Name="btnClose" Content="" Height="25" Style="{StaticResource CeremonyCloseButtonStyle}" Click="BtnClose_Click" VerticalAlignment="Top" HorizontalAlignment="Right" Width="32"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="3*" />
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center">
+                        <TextBox x:Name="txbUserName" Tag=" * Enter User Name" HorizontalAlignment="Left" TextWrapping="Wrap" Text="" Height="30" Width="250" Style="{StaticResource CeremonyTextBoxStyle}"/>    
+                    </Grid>
+                    <Grid Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+                        <TextBox x:Name="txbEmailAddr" Tag=" * Enter Email Address" HorizontalAlignment="Left" TextWrapping="Wrap" Text="" Height="30" Width="250" Style="{StaticResource CeremonyTextBoxStyle}"/>
+                    </Grid>
+                    <Grid Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center">
+                        <PasswordBox x:Name="txbPassword" HorizontalAlignment="Left"  Tag=" * Enter Password" VerticalAlignment="Center" Height="30" Width="250" Style="{StaticResource CeremonyPasswordBoxStyle}"/>
+                    </Grid>
+                    <Grid Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Center">
+                        <PasswordBox x:Name="txbConfirmPassword" HorizontalAlignment="Left"  Tag=" * Confirm Password" VerticalAlignment="Center" Height="30" Width="250" Style="{StaticResource CeremonyPasswordBoxStyle}"/>
+                    </Grid>
+                    <Grid Grid.Row="4" VerticalAlignment="Center" HorizontalAlignment="Center">
+                        <ComboBox x:Name="cbCountry" Tag=" * Enter Country Name" HorizontalAlignment="Left" Text="" Height="27" Width="246" Style="{StaticResource CeremonyComboboxStyle}" IsEditable="True"/>
+                    </Grid>
+                    <Grid Grid.Row="5" VerticalAlignment="Bottom" HorizontalAlignment="Center">
+                        <Label x:Name="lbNotice" Content="User sign up finished unsuccessfuly." HorizontalAlignment="Left" Foreground="#FFC31D15" Visibility="Hidden"/>
+                    </Grid>
+                    <Grid Grid.Row="6" VerticalAlignment="Center" HorizontalAlignment="Center">
+                        <StackPanel>
+                            <Button x:Name="btnSignIn" Content="Sign up" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="150" Height="30" Margin="20,5,20,5" Style="{StaticResource CeremonyNormalButtonStyle}" Opacity="0.6" Click="BtnSignUp_Click" />
+                            <Button x:Name="btnBack" Content="Back to sign-in" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="150" Height="30" Margin="20,5,20,5" Style="{StaticResource CeremonyNormalButtonStyle}" Opacity="0.6" Click="BtnBack_Click" />
+                        </StackPanel>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </Grid>
+    </Border>
+    
+</Window>

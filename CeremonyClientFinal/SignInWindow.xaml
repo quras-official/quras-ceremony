@@ -1,0 +1,59 @@
+﻿<Window x:Class="CeremonyClientFinal.SignInWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CeremonyClientFinal"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="MainWindow" Height="500" Width="680" WindowStyle="None" AllowsTransparency="True" MouseDown="Window_MouseDown">
+    <Border BorderThickness="1" BorderBrush="#FF74BCE4">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="5*" />
+                <ColumnDefinition Width="5*" />
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Image Source="res/logo.png" >
+                    <Image.Effect>
+                        <DropShadowEffect Opacity="0.3" Direction="0" BlurRadius="30"/>
+                    </Image.Effect>
+                </Image>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="3*" />
+                    <RowDefinition Height="4*" />
+                    <RowDefinition Height="3*" />
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" VerticalAlignment="Top" HorizontalAlignment="Right">
+                    <Button x:Name="btnClose" Content="" Height="25" Style="{StaticResource CeremonyCloseButtonStyle}" Click="BtnClose_Click" VerticalAlignment="Top" HorizontalAlignment="Right" Width="32"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="3*" />
+                        <RowDefinition Height="3*" />
+                        <RowDefinition Height="2*" />
+                        <RowDefinition Height="4*" />
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center">
+                        <TextBox x:Name="txbEmailAddr" HorizontalAlignment="Left" Tag="Enter Your Email Address" TextWrapping="Wrap" Text="" Height="30" Width="250" Style="{StaticResource CeremonyTextBoxStyle}"/>
+                    </Grid>
+                    <Grid Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+                        <PasswordBox x:Name="txbPassword" HorizontalAlignment="Left"  Tag="Enter Password" VerticalAlignment="Center" Height="30" Width="250" Style="{StaticResource CeremonyPasswordBoxStyle}"/>
+                    </Grid>
+                    <Grid Grid.Row="2" VerticalAlignment="Bottom" HorizontalAlignment="Center">
+                        <Label x:Name="lbNotice" Content="Incorrect User Name or Password" HorizontalAlignment="Left" Foreground="#FFC31D15" Visibility="Hidden"/>
+                    </Grid>
+                    <Grid Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Center">
+                        <StackPanel Orientation="Horizontal">
+                            <Button x:Name="btnSignIn" Content="Sign in"  Width="100" Height="30" Margin="20,0,20,0" Style="{StaticResource CeremonyNormalButtonStyle}" Opacity="0.6" Click="BtnSignIn_Click" />
+                            <Button x:Name="btnSignUp" Content="Sign up"  Width="100" Height="30" Margin="20,0,20,0" Style="{StaticResource CeremonyNormalButtonStyle}" Click="BtnSignUp_Click" Opacity="0.6"/>
+                        </StackPanel>
+                    </Grid>
+                    
+                </Grid>
+            </Grid>
+        </Grid>
+    </Border>
+</Window>

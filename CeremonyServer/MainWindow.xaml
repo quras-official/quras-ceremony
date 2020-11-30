@@ -1,0 +1,58 @@
+﻿<Window x:Class="CeremonyServer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CeremonyServer"
+        mc:Ignorable="d"
+        Title="QurasCeremonyServer" Height="600" Width="550"
+        ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Name="TxtParticipantCnt" Style="{StaticResource TBText}">
+            Total Participants : 202
+        </TextBlock>
+        <TextBlock Grid.Row="1" Style="{StaticResource TBText}">
+            Selected Participant
+        </TextBlock>
+        <TextBlock Grid.Row="2" Name="TxtSelectedUserIndex" Style="{StaticResource TBMarginedText}">
+            Index : 10
+        </TextBlock>
+        <TextBlock Grid.Row="3" Name="TxtSelectedUserName" Style="{StaticResource TBMarginedText}">
+            Name : Alex
+        </TextBlock>
+        <TextBlock Grid.Row="4" Name="TxtSelectedUserEmail" Style="{StaticResource TBMarginedText}">
+            Email : alex@gmail.com
+        </TextBlock>
+        <TextBlock Grid.Row="5" Name="TxtSelectedUserCountry" Style="{StaticResource TBMarginedText}">
+            Country : China
+        </TextBlock>
+        <TextBlock Grid.Row="6" Name="TxtSelectedUserAddress" Style="{StaticResource TBMarginedText}">
+            Address : Dr5XGYP2dup9M9k1mGYaXiWzhPZNckpLpU
+        </TextBlock>
+        <TextBlock Grid.Row="7" Name="TxtSuccessedCnt"  Style="{StaticResource TBText}">
+            Successed Participants : 8
+        </TextBlock>
+        <TextBlock Grid.Row="8" Name="TxtTimeoutCnt" Style="{StaticResource TBText}">
+            Timeout Participants : 1
+        </TextBlock>
+        <TextBlock Grid.Row="9" Name="TxtCeremonyStatus" Style="{StaticResource TBText}">
+            Ceremony Status : STARTED
+        </TextBlock>
+        <Button Grid.Row="10" Name="BtnStart" Width="150" Height="35" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20" Click="BtnStart_Click"> 
+            Start Ceremony
+        </Button>
+    </Grid>
+</Window>

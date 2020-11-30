@@ -1,0 +1,16 @@
+﻿<Application x:Class="CeremonyClientFinal.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:CeremonyClientFinal"
+             StartupUri="SignInWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary >
+            <ResourceDictionary.MergedDictionaries >
+                <ResourceDictionary Source="/styles/Buttons.xaml"/>
+                <ResourceDictionary Source="/styles/PasswordBoxes.xaml"/>
+                <ResourceDictionary Source="/styles/TextBoxs.xaml"/>
+                <ResourceDictionary Source="/styles/ComboBoxes.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

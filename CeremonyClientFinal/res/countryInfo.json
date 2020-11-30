@@ -1,0 +1,850 @@
+[
+  {
+    "latLang": [ 35.685, 139.7514 ],
+    "name": "Japan"
+  },
+  {
+    "latLang": [ 19.4424, -99.131 ],
+    "name": "Mexico"
+  },
+  {
+    "latLang": [ 23.7231, 90.4086 ],
+    "name": "Bangladesh"
+  },
+  {
+    "latLang": [ -34.6025, -58.3975 ],
+    "name": "Argentina"
+  },
+  {
+    "latLang": [ 30.05, 31.25 ],
+    "name": "Egypt"
+  },
+  {
+    "latLang": [ 39.9289, 116.3883 ],
+    "name": "China"
+  },
+  {
+    "latLang": [ 14.6042, 120.9822 ],
+    "name": "Philippines"
+  },
+  {
+    "latLang": [ 55.7522, 37.6155 ],
+    "name": "Russia"
+  },
+  {
+    "latLang": [ 48.8667, 2.3333 ],
+    "name": "France"
+  },
+  {
+    "latLang": [ 37.5663, 126.9997 ],
+    "name": "Korea, South"
+  },
+  {
+    "latLang": [ -6.1744, 106.8294 ],
+    "name": "Indonesia"
+  },
+  {
+    "latLang": [ 51.5, -0.1167 ],
+    "name": "United Kingdom"
+  },
+  {
+    "latLang": [ -12.048, -77.0501 ],
+    "name": "Peru"
+  },
+  {
+    "latLang": [ 35.6719, 51.4243 ],
+    "name": "Iran"
+  },
+  {
+    "latLang": [ -4.3297, 15.315 ],
+    "name": "Congo (Kinshasa)"
+  },
+  {
+    "latLang": [ 4.5964, -74.0833 ],
+    "name": "Colombia"
+  },
+  {
+    "latLang": [ 25.0358, 121.5683 ],
+    "name": "Taiwan"
+  },
+  {
+    "latLang": [ 13.75, 100.5166 ],
+    "name": "Thailand"
+  },
+  {
+    "latLang": [ -33.45, -70.667 ],
+    "name": "Chile"
+  },
+  {
+    "latLang": [ 40.4, -3.6834 ],
+    "name": "Spain"
+  },
+  {
+    "latLang": [ 38.9047, -77.0163 ],
+    "name": "United States"
+  },
+  {
+    "latLang": [ 1.293, 103.8558 ],
+    "name": "Singapore"
+  },
+  {
+    "latLang": [ -8.8383, 13.2344 ],
+    "name": "Angola"
+  },
+  {
+    "latLang": [ 33.3386, 44.3939 ],
+    "name": "Iraq"
+  },
+  {
+    "latLang": [ 15.5881, 32.5342 ],
+    "name": "Sudan"
+  },
+  {
+    "latLang": [ 24.6408, 46.7727 ],
+    "name": "Saudi Arabia"
+  },
+  {
+    "latLang": [ 21.0333, 105.85 ],
+    "name": "Vietnam"
+  },
+  {
+    "latLang": [ 16.7834, 96.1667 ],
+    "name": "Burma"
+  },
+  {
+    "latLang": [ 5.32, -4.04 ],
+    "name": "Cote d'Ivoire"
+  },
+  {
+    "latLang": [ -15.7833, -47.9161 ],
+    "name": "Brazil"
+  },
+  {
+    "latLang": [ 39.9272, 32.8644 ],
+    "name": "Turkey"
+  },
+  {
+    "latLang": [ 52.5218, 13.4015 ],
+    "name": "Germany"
+  },
+  {
+    "latLang": [ 36.7631, 3.0506 ],
+    "name": "Algeria"
+  },
+  {
+    "latLang": [ 41.896, 12.4833 ],
+    "name": "Italy"
+  },
+  {
+    "latLang": [ 39.0194, 125.7547 ],
+    "name": "Korea, North"
+  },
+  {
+    "latLang": [ 34.5167, 69.1833 ],
+    "name": "Afghanistan"
+  },
+  {
+    "latLang": [ 37.9833, 23.7333 ],
+    "name": "Greece"
+  },
+  {
+    "latLang": [ -33.92, 18.435 ],
+    "name": "South Africa"
+  },
+  {
+    "latLang": [ 9.0333, 38.7 ],
+    "name": "Ethiopia"
+  },
+  {
+    "latLang": [ -1.2833, 36.8167 ],
+    "name": "Kenya"
+  },
+  {
+    "latLang": [ 10.501, -66.917 ],
+    "name": "Venezuela"
+  },
+  {
+    "latLang": [ -6.8, 39.2683 ],
+    "name": "Tanzania"
+  },
+  {
+    "latLang": [ 38.7227, -9.1449 ],
+    "name": "Portugal"
+  },
+  {
+    "latLang": [ 50.4334, 30.5166 ],
+    "name": "Ukraine"
+  },
+  {
+    "latLang": [ 14.7158, -17.4731 ],
+    "name": "Senegal"
+  },
+  {
+    "latLang": [ 33.5, 36.3 ],
+    "name": "Syria"
+  },
+  {
+    "latLang": [ 36.8028, 10.1797 ],
+    "name": "Tunisia"
+  },
+  {
+    "latLang": [ 48.2, 16.3666 ],
+    "name": "Austria"
+  },
+  {
+    "latLang": [ 32.8925, 13.18 ],
+    "name": "Libya"
+  },
+  {
+    "latLang": [ 41.3117, 69.2949 ],
+    "name": "Uzbekistan"
+  },
+  {
+    "latLang": [ 23.132, -82.3642 ],
+    "name": "Cuba"
+  },
+  {
+    "latLang": [ 18.4701, -69.9001 ],
+    "name": "Dominican Republic"
+  },
+  {
+    "latLang": [ 40.3953, 49.8622 ],
+    "name": "Azerbaijan"
+  },
+  {
+    "latLang": [ 5.55, -0.2167 ],
+    "name": "Ghana"
+  },
+  {
+    "latLang": [ 29.3697, 47.9783 ],
+    "name": "Kuwait"
+  },
+  {
+    "latLang": [ 15.3547, 44.2066 ],
+    "name": "Yemen"
+  },
+  {
+    "latLang": [ 18.541, -72.336 ],
+    "name": "Haiti"
+  },
+  {
+    "latLang": [ 44.4334, 26.0999 ],
+    "name": "Romania"
+  },
+  {
+    "latLang": [ -25.2964, -57.6415 ],
+    "name": "Paraguay"
+  },
+  {
+    "latLang": [ 33.872, 35.5097 ],
+    "name": "Lebanon"
+  },
+  {
+    "latLang": [ 53.9, 27.5666 ],
+    "name": "Belarus"
+  },
+  {
+    "latLang": [ 50.8333, 4.3333 ],
+    "name": "Belgium"
+  },
+  {
+    "latLang": [ 52.25, 21 ],
+    "name": "Poland"
+  },
+  {
+    "latLang": [ 34.0253, -6.8361 ],
+    "name": "Morocco"
+  },
+  {
+    "latLang": [ -0.215, -78.5001 ],
+    "name": "Ecuador"
+  },
+  {
+    "latLang": [ -18.9166, 47.5166 ],
+    "name": "Madagascar"
+  },
+  {
+    "latLang": [ 47.5, 19.0833 ],
+    "name": "Hungary"
+  },
+  {
+    "latLang": [ 3.8667, 11.5167 ],
+    "name": "Cameroon"
+  },
+  {
+    "latLang": [ -16.498, -68.15 ],
+    "name": "Bolivia"
+  },
+  {
+    "latLang": [ 9.0833, 7.5333 ],
+    "name": "Nigeria"
+  },
+  {
+    "latLang": [ -17.8178, 31.0447 ],
+    "name": "Zimbabwe"
+  },
+  {
+    "latLang": [ -34.858, -56.1711 ],
+    "name": "Uruguay"
+  },
+  {
+    "latLang": [ 12.65, -8 ],
+    "name": "Mali"
+  },
+  {
+    "latLang": [ 9.5315, -13.6802 ],
+    "name": "Guinea"
+  },
+  {
+    "latLang": [ 11.55, 104.9166 ],
+    "name": "Cambodia"
+  },
+  {
+    "latLang": [ 6.1319, 1.2228 ],
+    "name": "Togo"
+  },
+  {
+    "latLang": [ 25.2866, 51.533 ],
+    "name": "Qatar"
+  },
+  {
+    "latLang": [ 3.1667, 101.7 ],
+    "name": "Malaysia"
+  },
+  {
+    "latLang": [ -25.9553, 32.5892 ],
+    "name": "Mozambique"
+  },
+  {
+    "latLang": [ 13.71, -89.203 ],
+    "name": "El Salvador"
+  },
+  {
+    "latLang": [ 0.3167, 32.5833 ],
+    "name": "Uganda"
+  },
+  {
+    "latLang": [ 52.08, 4.27 ],
+    "name": "Netherlands"
+  },
+  {
+    "latLang": [ -4.2592, 15.2847 ],
+    "name": "Congo (Brazzaville)"
+  },
+  {
+    "latLang": [ -25.7069, 28.2294 ],
+    "name": "South Africa"
+  },
+  {
+    "latLang": [ -15.4166, 28.2833 ],
+    "name": "Zambia"
+  },
+  {
+    "latLang": [ 9.935, -84.0841 ],
+    "name": "Costa Rica"
+  },
+  {
+    "latLang": [ 8.968, -79.533 ],
+    "name": "Panama"
+  },
+  {
+    "latLang": [ 59.3508, 18.0973 ],
+    "name": "Sweden"
+  },
+  {
+    "latLang": [ 42.6833, 23.3167 ],
+    "name": "Bulgaria"
+  },
+  {
+    "latLang": [ 50.0833, 14.466 ],
+    "name": "Czechia"
+  },
+  {
+    "latLang": [ 12.3703, -1.5247 ],
+    "name": "Burkina Faso"
+  },
+  {
+    "latLang": [ 45.4167, -75.7 ],
+    "name": "Canada"
+  },
+  {
+    "latLang": [ 60.1756, 24.9341 ],
+    "name": "Finland"
+  },
+  {
+    "latLang": [ 40.1812, 44.5136 ],
+    "name": "Armenia"
+  },
+  {
+    "latLang": [ 2.0667, 45.3667 ],
+    "name": "Somalia"
+  },
+  {
+    "latLang": [ 41.725, 44.7908 ],
+    "name": "Georgia"
+  },
+  {
+    "latLang": [ 44.8186, 20.468 ],
+    "name": "Serbia"
+  },
+  {
+    "latLang": [ 38.56, 68.7739 ],
+    "name": "Tajikistan"
+  },
+  {
+    "latLang": [ 55.6786, 12.5635 ],
+    "name": "Denmark"
+  },
+  {
+    "latLang": [ 31.95, 35.9333 ],
+    "name": "Jordan"
+  },
+  {
+    "latLang": [ 53.3331, -6.2489 ],
+    "name": "Ireland"
+  },
+  {
+    "latLang": [ 6.3106, -10.8048 ],
+    "name": "Liberia"
+  },
+  {
+    "latLang": [ 52.35, 4.9166 ],
+    "name": "Netherlands"
+  },
+  {
+    "latLang": [ 31.7784, 35.2066 ],
+    "name": "Israel"
+  },
+  {
+    "latLang": [ 14.6211, -90.527 ],
+    "name": "Guatemala"
+  },
+  {
+    "latLang": [ 12.1131, 15.0491 ],
+    "name": "Chad"
+  },
+  {
+    "latLang": [ 14.102, -87.2175 ],
+    "name": "Honduras"
+  },
+  {
+    "latLang": [ 17.9771, -76.7674 ],
+    "name": "Jamaica"
+  },
+  {
+    "latLang": [ 19.7666, 96.1186 ],
+    "name": "Burma"
+  },
+  {
+    "latLang": [ 11.595, 43.148 ],
+    "name": "Djibouti"
+  },
+  {
+    "latLang": [ 12.153, -86.2685 ],
+    "name": "Nicaragua"
+  },
+  {
+    "latLang": [ 13.5167, 2.1167 ],
+    "name": "Niger"
+  },
+  {
+    "latLang": [ 41.3275, 19.8189 ],
+    "name": "Albania"
+  },
+  {
+    "latLang": [ 27.7167, 85.3166 ],
+    "name": "Nepal"
+  },
+  {
+    "latLang": [ 47.9167, 106.9166 ],
+    "name": "Mongolia"
+  },
+  {
+    "latLang": [ -1.9536, 30.0605 ],
+    "name": "Rwanda"
+  },
+  {
+    "latLang": [ 42.8731, 74.5852 ],
+    "name": "Kyrgyzstan"
+  },
+  {
+    "latLang": [ 59.9167, 10.75 ],
+    "name": "Norway"
+  },
+  {
+    "latLang": [ 4.3666, 18.5583 ],
+    "name": "Central African Republic"
+  },
+  {
+    "latLang": [ 8.47, -13.2342 ],
+    "name": "Sierra Leone"
+  },
+  {
+    "latLang": [ 33.7, 73.1666 ],
+    "name": "Pakistan"
+  },
+  {
+    "latLang": [ 6.4, 2.52 ],
+    "name": "Benin"
+  },
+  {
+    "latLang": [ 17.9667, 102.6 ],
+    "name": "Laos"
+  },
+  {
+    "latLang": [ 56.95, 24.1 ],
+    "name": "Latvia"
+  },
+  {
+    "latLang": [ 18.0864, -15.9753 ],
+    "name": "Mauritania"
+  },
+  {
+    "latLang": [ 23.6133, 58.5933 ],
+    "name": "Oman"
+  },
+  {
+    "latLang": [ 37.95, 58.3833 ],
+    "name": "Turkmenistan"
+  },
+  {
+    "latLang": [ 45.8, 16 ],
+    "name": "Croatia"
+  },
+  {
+    "latLang": [ 43.85, 18.383 ],
+    "name": "Bosnia And Herzegovina"
+  },
+  {
+    "latLang": [ 47.005, 28.8577 ],
+    "name": "Moldova"
+  },
+  {
+    "latLang": [ -13.9833, 33.7833 ],
+    "name": "Malawi"
+  },
+  {
+    "latLang": [ 15.3333, 38.9333 ],
+    "name": "Eritrea"
+  },
+  {
+    "latLang": [ 24.4667, 54.3666 ],
+    "name": "United Arab Emirates"
+  },
+  {
+    "latLang": [ -20.1666, 57.5 ],
+    "name": "Mauritius"
+  },
+  {
+    "latLang": [ 0.3854, 9.458 ],
+    "name": "Gabon"
+  },
+  {
+    "latLang": [ 26.2361, 50.5831 ],
+    "name": "Bahrain"
+  },
+  {
+    "latLang": [ 54.6834, 25.3166 ],
+    "name": "Lithuania"
+  },
+  {
+    "latLang": [ 42, 21.4335 ],
+    "name": "Macedonia"
+  },
+  {
+    "latLang": [ -29.12, 26.2299 ],
+    "name": "South Africa"
+  },
+  {
+    "latLang": [ 48.15, 17.117 ],
+    "name": "Slovakia"
+  },
+  {
+    "latLang": [ 11.865, -15.5984 ],
+    "name": "Guinea-Bissau"
+  },
+  {
+    "latLang": [ 59.4339, 24.728 ],
+    "name": "Estonia"
+  },
+  {
+    "latLang": [ -41.3, 174.7833 ],
+    "name": "New Zealand"
+  },
+  {
+    "latLang": [ 35.8997, 14.5147 ],
+    "name": "Malta"
+  },
+  {
+    "latLang": [ -29.3167, 27.4833 ],
+    "name": "Lesotho"
+  },
+  {
+    "latLang": [ 51.1811, 71.4278 ],
+    "name": "Kazakhstan"
+  },
+  {
+    "latLang": [ -3.3761, 29.36 ],
+    "name": "Burundi"
+  },
+  {
+    "latLang": [ -35.283, 149.129 ],
+    "name": "Australia"
+  },
+  {
+    "latLang": [ 28.6, 77.2 ],
+    "name": "India"
+  },
+  {
+    "latLang": [ 46.0553, 14.515 ],
+    "name": "Slovenia"
+  },
+  {
+    "latLang": [ 6.4833, 2.6166 ],
+    "name": "Benin"
+  },
+  {
+    "latLang": [ 4.8833, 114.9333 ],
+    "name": "Brunei"
+  },
+  {
+    "latLang": [ 10.652, -61.517 ],
+    "name": "Trinidad And Tobago"
+  },
+  {
+    "latLng": [ -9.4647, 147.1925 ],
+    "name": "Papua New Guinea"
+  },
+  {
+    "latLang": [ 46.9167, 7.467 ],
+    "name": "Switzerland"
+  },
+  {
+    "latLang": [ -22.57, 17.0835 ],
+    "name": "Namibia"
+  },
+  {
+    "latLang": [ 6.802, -58.167 ],
+    "name": "Guyana"
+  },
+  {
+    "latLang": [ 5.835, -55.167 ],
+    "name": "Suriname"
+  },
+  {
+    "latLang": [ -8.5594, 125.5795 ],
+    "name": "Timor-Leste"
+  },
+  {
+    "latLang": [ 25.0834, -77.35 ],
+    "name": "Bahamas, The"
+  },
+  {
+    "latLang": [ -19.041, -65.2595 ],
+    "name": "Bolivia"
+  },
+  {
+    "latLang": [ 35.1667, 33.3666 ],
+    "name": "Cyprus"
+  },
+  {
+    "latLang": [ -6.1833, 35.75 ],
+    "name": "Tanzania"
+  },
+  {
+    "latLang": [ 6.932, 79.8578 ],
+    "name": "Sri Lanka"
+  },
+  {
+    "latLang": [ -24.6463, 25.9119 ],
+    "name": "Botswana"
+  },
+  {
+    "latLang": [ 6.8184, -5.2755 ],
+    "name": "C?te D?Ivoire"
+  },
+  {
+    "latLang": [ 13.102, -59.6165 ],
+    "name": "Barbados"
+  },
+  {
+    "latLang": [ -18.133, 178.4417 ],
+    "name": "Fiji"
+  },
+  {
+    "latLang": [ 64.15, -21.95 ],
+    "name": "Iceland"
+  },
+  {
+    "latLang": [ 3.75, 8.7833 ],
+    "name": "Equatorial Guinea"
+  },
+  {
+    "latLang": [ 12.2004, -69.02 ],
+    "name": "Cura?ao"
+  },
+  {
+    "latLang": [ 42.466, 19.2663 ],
+    "name": "Montenegro"
+  },
+  {
+    "latLang": [ -11.7042, 43.2402 ],
+    "name": "Comoros"
+  },
+  {
+    "latLang": [ 6.9, 79.95 ],
+    "name": "Sri Lanka"
+  },
+  {
+    "latLang": [ 14.9167, -23.5167 ],
+    "name": "Cabo Verde"
+  },
+  {
+    "latLang": [ 4.1667, 73.4999 ],
+    "name": "Maldives"
+  },
+  {
+    "latLang": [ 4.83, 31.58 ],
+    "name": "South Sudan"
+  },
+  {
+    "latLang": [ 49.6117, 6.13 ],
+    "name": "Luxembourg"
+  },
+  {
+    "latLang": [ 27.473, 89.639 ],
+    "name": "Bhutan"
+  },
+  {
+    "latLang": [ -26.3167, 31.1333 ],
+    "name": "Swaziland"
+  },
+  {
+    "latLang": [ 0.3334, 6.7333 ],
+    "name": "Sao Tome And Principe"
+  },
+  {
+    "latLang": [ -9.438, 159.9498 ],
+    "name": "Solomon Islands"
+  },
+  {
+    "latLang": [ 12.5304, -70.029 ],
+    "name": "Aruba"
+  },
+  {
+    "latLang": [ -13.8415, -171.7386 ],
+    "name": "Samoa"
+  },
+  {
+    "latLang": [ 42.5, 1.5165 ],
+    "name": "Andorra"
+  },
+  {
+    "latLang": [ 13.1483, -61.2121 ],
+    "name": "Saint Vincent And The Grenadines"
+  },
+  {
+    "latLang": [ -17.7334, 168.3166 ],
+    "name": "Vanuatu"
+  },
+  {
+    "latLang": [ 13.4539, -16.5917 ],
+    "name": "Gambia, The"
+  },
+  {
+    "latLang": [ -21.1385, -175.2206 ],
+    "name": "Tonga"
+  },
+  {
+    "latLang": [ 14.002, -61 ],
+    "name": "Saint Lucia"
+  },
+  {
+    "latLang": [ 43.7396, 7.4069 ],
+    "name": "Monaco"
+  },
+  {
+    "latLang": [ 47.1337, 9.5167 ],
+    "name": "Liechtenstein"
+  },
+  {
+    "latLang": [ 17.118, -61.85 ],
+    "name": "Antigua And Barbuda"
+  },
+  {
+    "latLang": [ 12.0526, -61.7416 ],
+    "name": "Grenada"
+  },
+  {
+    "latLang": [ -4.6166, 55.45 ],
+    "name": "Seychelles"
+  },
+  {
+    "latLang": [ 43.9172, 12.4667 ],
+    "name": "San Marino"
+  },
+  {
+    "latLang": [ 1.3382, 173.0176 ],
+    "name": "Kiribati"
+  },
+  {
+    "latLang": [ 7.103, 171.38 ],
+    "name": "Marshall Islands"
+  },
+  {
+    "latLang": [ 15.301, -61.387 ],
+    "name": "Dominica"
+  },
+  {
+    "latLang": [ 17.302, -62.717 ],
+    "name": "Saint Kitts And Nevis"
+  },
+  {
+    "latLang": [ 17.252, -88.7671 ],
+    "name": "Belize"
+  },
+  {
+    "latLang": [ -14.274, -170.7046 ],
+    "name": "American Samoa"
+  },
+  {
+    "latLang": [ -26.4667, 31.2 ],
+    "name": "Swaziland"
+  },
+  {
+    "latLang": [ -8.5167, 179.2166 ],
+    "name": "Tuvalu"
+  },
+  {
+    "latLang": [ 6.9166, 158.15 ],
+    "name": "Micronesia, Federated States Of"
+  },
+  {
+    "latLang": [ 15.2137, 145.7546 ],
+    "name": "Northern Mariana Islands"
+  },
+  {
+    "latLang": [ 13.4745, 144.7504 ],
+    "name": "Guam"
+  },
+  {
+    "latLang": [ 31.7764, 35.2269 ],
+    "name": "West Bank"
+  },
+  {
+    "latLang": [ 18.0255, -63.045 ],
+    "name": "Sint Maarten"
+  },
+  {
+    "latLang": [ -3.4271, 29.9246 ],
+    "name": "Burundi"
+  },
+  {
+    "latLang": [ 42.6666, 21.1724 ],
+    "name": "Kosovo"
+  },
+  {
+    "latLang": [ 7.5, 134.6242 ],
+    "name": "Palau"
+  }
+]
